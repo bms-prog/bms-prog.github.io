@@ -11,4 +11,4 @@ Using the app does not affect receiving emails in your mail clients — you will
 
 ⚠️ To ensure the app works properly and notifies you of important emails as quickly as possible, go to the app's system settings and set "Battery management" to "Unlimited," enable app notifications, and disable "Remove permissions and free up space."
 
-
+[Download from Google play](https://play.google.com/store/apps/details?id=com.hc.mailsnare)
