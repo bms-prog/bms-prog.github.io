@@ -5,6 +5,7 @@
 ## MailSnare (Ads)
 
 ![VoicePlugin logo](https://bms-prog.github.io/img/mailsnareicon.png)
+
 [Download from Google play](https://play.google.com/store/apps/details?id=com.hc.mailsnare)
 
 📝 If you are currently waiting for a specific email or frequently monitor incoming emails with certain parameters and don't want to constantly log into mail services to check, then this app is for you.
@@ -19,6 +20,7 @@ Using the app does not affect receiving emails in your mail clients — you will
 ## NppVoicePlugin
 
 ![VoicePlugin logo](https://bms-prog.github.io/img/nppvoiceplugin.png)
+
 [Download from Git](https://github.com/bms-prog/NppVoicePlugin)
 
 📝 Boost your productivity! Dictate text, read selected text aloud, and send spoken or selected text directly to your local Ollama AI.
