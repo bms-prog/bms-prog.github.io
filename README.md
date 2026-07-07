@@ -32,6 +32,7 @@ Send spoken or selected text to your local Ollama AI
 Supports both English and Russian
 Seamless integration with Notepad++
 For detailed setup and usage instructions, see Help in the plugin menu.
+
 🛠️ Installation:
 
 Extract NppVoicePlugin.zip into the Notepad++ plugins folder.
