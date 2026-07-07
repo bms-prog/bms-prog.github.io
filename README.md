@@ -1,4 +1,4 @@
-![VoicePlugin logo](https://bms-prog.github.io/img/up_pic.jpg)
+![hat logo](img/up_pic.jpg)
 
 
 ## MailSnare (Ads)
