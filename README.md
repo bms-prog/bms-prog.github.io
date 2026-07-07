@@ -1,6 +1,6 @@
 # MailSnare (Ads)
 
-![VoicePlugin logo](img/MailSnare(Ads)_icon.png){:style="width:120px;height:120px"}
+![VoicePlugin logo](https://bms-prog.github.io/img/mailsnareicon.png){:style="width:120px;height:120px"}
 
 
 📝 If you are currently waiting for a specific email or frequently monitor incoming emails with certain parameters and don't want to constantly log into mail services to check, then this app is for you.
