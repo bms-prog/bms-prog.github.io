@@ -13,8 +13,7 @@ The app is designed to track incoming emails matching a specified filter, with a
 
 Using the app does not affect receiving emails in your mail clients — you will still receive them as usual. Emails deleted from the app are not deleted from the server.
 
->[!IMPORTANT]
->To ensure the app works properly and notifies you of important emails as quickly as possible, go to the app's system settings and set "Battery management" to "Unlimited," enable app notifications, and disable "Remove permissions and free up space."
+⚠️ To ensure the app works properly and notifies you of important emails as quickly as possible, go to the app's system settings and set "Battery management" to "Unlimited," enable app notifications, and disable "Remove permissions and free up space."
 
 
 ## NppVoicePlugin
@@ -41,8 +40,7 @@ Path: Plugins → Open Plugins Folder in the Notepad++ menu.
 
 Example: C:\Program Files\Notepad++\plugins\NppVoicePlugin\
 
->[!IMPORTANT]
->After installation, open Help from the NppVoicePlugin plugin menu and read the documentation.
+⚠️ After installation, open Help from the NppVoicePlugin plugin menu and read the documentation.
 
 
 
