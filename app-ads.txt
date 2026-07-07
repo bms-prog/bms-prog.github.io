@@ -1,3 +1,1 @@
-# app-ads.txt HC Team file:
 google.com, pub-2033860473311191, DIRECT, f08c47fec0942fa0
-
