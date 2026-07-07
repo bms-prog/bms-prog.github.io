@@ -1,4 +1,8 @@
-# MailSnare (Ads)
+![VoicePlugin logo](https://bms-prog.github.io/img/up_pic.jpg)
+
+# Honest Cars Team
+
+## MailSnare (Ads)
 
 ![VoicePlugin logo](https://bms-prog.github.io/img/mailsnareicon.png)
 
@@ -13,7 +17,7 @@ Using the app does not affect receiving emails in your mail clients — you will
 
 [Download from Google play](https://play.google.com/store/apps/details?id=com.hc.mailsnare)
 
-# NppVoicePlugin
+## NppVoicePlugin
 
 ![VoicePlugin logo](https://bms-prog.github.io/img/nppvoiceplugin.png)
 
