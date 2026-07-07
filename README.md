@@ -40,7 +40,7 @@ Path: Plugins → Open Plugins Folder in the Notepad++ menu.
 
 Example: C:\Program Files\Notepad++\plugins\NppVoicePlugin\
 
-After installation, open Help from the NppVoicePlugin plugin menu and read the documentation.
+⚠️ After installation, open Help from the NppVoicePlugin plugin menu and read the documentation.
 
 
 
