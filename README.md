@@ -3,7 +3,7 @@
 
 ## MailSnare (Ads)
 
-![VoicePlugin logo](https://bms-prog.github.io/img/mailsnareicon.png)
+![VoicePlugin logo](img/mailsnareicon.png)
 
 [Download from Google play](https://play.google.com/store/apps/details?id=com.hc.mailsnare)
 
@@ -18,7 +18,7 @@ Using the app does not affect receiving emails in your mail clients — you will
 
 ## NppVoicePlugin
 
-![VoicePlugin logo](https://bms-prog.github.io/img/nppvoiceplugin.png)
+![VoicePlugin logo](img/nppvoiceplugin.png)
 
 [Download from Git](https://github.com/bms-prog/NppVoicePlugin)
 
