@@ -1,6 +1,5 @@
 ![VoicePlugin logo](https://bms-prog.github.io/img/up_pic.jpg)
 
-# Honest Cats Team
 
 ## MailSnare (Ads)
 
