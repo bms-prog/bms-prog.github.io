@@ -13,6 +13,32 @@ Using the app does not affect receiving emails in your mail clients — you will
 
 [Download from Google play](https://play.google.com/store/apps/details?id=com.hc.mailsnare)
 
+# NppVoicePlugin
+
+![VoicePlugin logo](https://bms-prog.github.io/img/nppvoiceplugin.png)
+
+📝 Boost your productivity! Dictate text, read selected text aloud, and send spoken or selected text directly to your local Ollama AI.
+
+Features:
+
+Voice typing with speech recognition
+Text-to-speech
+Send spoken or selected text to your local Ollama AI
+Supports both English and Russian
+Seamless integration with Notepad++
+For detailed setup and usage instructions, see Help in the plugin menu.
+🛠️ Installation:
+
+Extract NppVoicePlugin.zip into the Notepad++ plugins folder.
+
+Path: Plugins → Open Plugins Folder in the Notepad++ menu.
+
+Example: C:\Program Files\Notepad++\plugins\NppVoicePlugin\
+
+After installation, open Help from the NppVoicePlugin plugin menu and read the documentation.
+
+[Download from Git](https://github.com/bms-prog/NppVoicePlugin)
+
 
 ```bash
     |\__/,|   (`\
